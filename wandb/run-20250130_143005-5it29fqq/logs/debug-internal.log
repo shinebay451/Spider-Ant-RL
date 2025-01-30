@@ -1,0 +1,15 @@
+{"time":"2025-01-30T14:30:05.6594565-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"C:\\Users\\shine\\Desktop\\AiLearning\\wandb\\run-20250130_143005-5it29fqq\\logs\\debug-core.log"}
+{"time":"2025-01-30T14:30:05.772622-05:00","level":"INFO","msg":"created new stream","id":"5it29fqq"}
+{"time":"2025-01-30T14:30:05.772622-05:00","level":"INFO","msg":"stream: started","id":"5it29fqq"}
+{"time":"2025-01-30T14:30:05.7731247-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"5it29fqq"}
+{"time":"2025-01-30T14:30:05.7731247-05:00","level":"INFO","msg":"sender: started","stream_id":"5it29fqq"}
+{"time":"2025-01-30T14:30:05.7731247-05:00","level":"INFO","msg":"handler: started","stream_id":"5it29fqq"}
+{"time":"2025-01-30T14:30:05.975933-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-30T14:30:07.9420935-05:00","level":"INFO","msg":"stream: closing","id":"5it29fqq"}
+{"time":"2025-01-30T14:30:07.9420935-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-30T14:30:07.9428565-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-30T14:30:08.5539131-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-30T14:30:09.2351497-05:00","level":"INFO","msg":"handler: closed","stream_id":"5it29fqq"}
+{"time":"2025-01-30T14:30:09.2351497-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"5it29fqq"}
+{"time":"2025-01-30T14:30:09.2351497-05:00","level":"INFO","msg":"sender: closed","stream_id":"5it29fqq"}
+{"time":"2025-01-30T14:30:09.2356841-05:00","level":"INFO","msg":"stream: closed","id":"5it29fqq"}

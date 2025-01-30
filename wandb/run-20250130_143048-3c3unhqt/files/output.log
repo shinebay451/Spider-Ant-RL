@@ -1,0 +1,280 @@
+C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\gymnasium\envs\registration.py:517: DeprecationWarning: [33mWARN: The environment Ant-v4 is out of date. You should consider upgrading to version `v5`.[0m
+  logger.deprecation(
+Using cpu device
+Wrapping the env in a DummyVecEnv.
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 130      |
+|    ep_rew_mean     | -140     |
+| time/              |          |
+|    fps             | 133      |
+|    iterations      | 1        |
+|    time_elapsed    | 15       |
+|    total_timesteps | 2048     |
+---------------------------------
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 128         |
+|    ep_rew_mean          | -132        |
+| time/                   |             |
+|    fps                  | 125         |
+|    iterations           | 2           |
+|    time_elapsed         | 32          |
+|    total_timesteps      | 4096        |
+| train/                  |             |
+|    approx_kl            | 0.013179885 |
+|    clip_fraction        | 0.135       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -11.3       |
+|    explained_variance   | -0.00649    |
+|    learning_rate        | 0.0003      |
+|    loss                 | 52.2        |
+|    n_updates            | 10          |
+|    policy_gradient_loss | -0.0286     |
+|    std                  | 0.988       |
+|    value_loss           | 226         |
+-----------------------------------------
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 157         |
+|    ep_rew_mean          | -159        |
+| time/                   |             |
+|    fps                  | 120         |
+|    iterations           | 3           |
+|    time_elapsed         | 51          |
+|    total_timesteps      | 6144        |
+| train/                  |             |
+|    approx_kl            | 0.013958968 |
+|    clip_fraction        | 0.121       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -11.2       |
+|    explained_variance   | -0.0554     |
+|    learning_rate        | 0.0003      |
+|    loss                 | 39.3        |
+|    n_updates            | 20          |
+|    policy_gradient_loss | -0.0298     |
+|    std                  | 0.976       |
+|    value_loss           | 115         |
+-----------------------------------------
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 118         |
+|    ep_rew_mean          | -120        |
+| time/                   |             |
+|    fps                  | 120         |
+|    iterations           | 4           |
+|    time_elapsed         | 68          |
+|    total_timesteps      | 8192        |
+| train/                  |             |
+|    approx_kl            | 0.011065128 |
+|    clip_fraction        | 0.0926      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -11.1       |
+|    explained_variance   | 0.0107      |
+|    learning_rate        | 0.0003      |
+|    loss                 | 30.6        |
+|    n_updates            | 30          |
+|    policy_gradient_loss | -0.0252     |
+|    std                  | 0.967       |
+|    value_loss           | 109         |
+-----------------------------------------
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 123         |
+|    ep_rew_mean          | -126        |
+| time/                   |             |
+|    fps                  | 120         |
+|    iterations           | 5           |
+|    time_elapsed         | 84          |
+|    total_timesteps      | 10240       |
+| train/                  |             |
+|    approx_kl            | 0.012905503 |
+|    clip_fraction        | 0.146       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -11.1       |
+|    explained_variance   | 0.00765     |
+|    learning_rate        | 0.0003      |
+|    loss                 | 58.6        |
+|    n_updates            | 40          |
+|    policy_gradient_loss | -0.0367     |
+|    std                  | 0.964       |
+|    value_loss           | 156         |
+-----------------------------------------
+----------------------------------------
+| rollout/                |            |
+|    ep_len_mean          | 120        |
+|    ep_rew_mean          | -122       |
+| time/                   |            |
+|    fps                  | 120        |
+|    iterations           | 6          |
+|    time_elapsed         | 101        |
+|    total_timesteps      | 12288      |
+| train/                  |            |
+|    approx_kl            | 0.01216504 |
+|    clip_fraction        | 0.132      |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -11        |
+|    explained_variance   | 0.0762     |
+|    learning_rate        | 0.0003     |
+|    loss                 | 67.5       |
+|    n_updates            | 50         |
+|    policy_gradient_loss | -0.0338    |
+|    std                  | 0.952      |
+|    value_loss           | 133        |
+----------------------------------------
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 86          |
+|    ep_rew_mean          | -87.4       |
+| time/                   |             |
+|    fps                  | 119         |
+|    iterations           | 7           |
+|    time_elapsed         | 120         |
+|    total_timesteps      | 14336       |
+| train/                  |             |
+|    approx_kl            | 0.010347571 |
+|    clip_fraction        | 0.102       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -10.9       |
+|    explained_variance   | 0.167       |
+|    learning_rate        | 0.0003      |
+|    loss                 | 44.5        |
+|    n_updates            | 60          |
+|    policy_gradient_loss | -0.0287     |
+|    std                  | 0.948       |
+|    value_loss           | 142         |
+-----------------------------------------
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 90.7        |
+|    ep_rew_mean          | -88.8       |
+| time/                   |             |
+|    fps                  | 118         |
+|    iterations           | 8           |
+|    time_elapsed         | 138         |
+|    total_timesteps      | 16384       |
+| train/                  |             |
+|    approx_kl            | 0.010205788 |
+|    clip_fraction        | 0.0911      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -10.9       |
+|    explained_variance   | 0.152       |
+|    learning_rate        | 0.0003      |
+|    loss                 | 91          |
+|    n_updates            | 70          |
+|    policy_gradient_loss | -0.0291     |
+|    std                  | 0.945       |
+|    value_loss           | 215         |
+-----------------------------------------
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 78.5         |
+|    ep_rew_mean          | -74          |
+| time/                   |              |
+|    fps                  | 118          |
+|    iterations           | 9            |
+|    time_elapsed         | 156          |
+|    total_timesteps      | 18432        |
+| train/                  |              |
+|    approx_kl            | 0.0098196305 |
+|    clip_fraction        | 0.101        |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -10.9        |
+|    explained_variance   | 0.203        |
+|    learning_rate        | 0.0003       |
+|    loss                 | 58.8         |
+|    n_updates            | 80           |
+|    policy_gradient_loss | -0.0318      |
+|    std                  | 0.939        |
+|    value_loss           | 162          |
+------------------------------------------
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 72.6        |
+|    ep_rew_mean          | -69.7       |
+| time/                   |             |
+|    fps                  | 117         |
+|    iterations           | 10          |
+|    time_elapsed         | 174         |
+|    total_timesteps      | 20480       |
+| train/                  |             |
+|    approx_kl            | 0.010969901 |
+|    clip_fraction        | 0.107       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -10.8       |
+|    explained_variance   | 0.231       |
+|    learning_rate        | 0.0003      |
+|    loss                 | 111         |
+|    n_updates            | 90          |
+|    policy_gradient_loss | -0.03       |
+|    std                  | 0.935       |
+|    value_loss           | 213         |
+-----------------------------------------
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 69.6        |
+|    ep_rew_mean          | -66.9       |
+| time/                   |             |
+|    fps                  | 117         |
+|    iterations           | 11          |
+|    time_elapsed         | 192         |
+|    total_timesteps      | 22528       |
+| train/                  |             |
+|    approx_kl            | 0.012002204 |
+|    clip_fraction        | 0.122       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -10.8       |
+|    explained_variance   | 0.195       |
+|    learning_rate        | 0.0003      |
+|    loss                 | 131         |
+|    n_updates            | 100         |
+|    policy_gradient_loss | -0.0324     |
+|    std                  | 0.931       |
+|    value_loss           | 247         |
+-----------------------------------------
+Traceback (most recent call last):
+  File "c:\Users\shine\Desktop\AiLearning\hello.py", line 19, in <module>
+    return True
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\stable_baselines3\ppo\ppo.py", line 311, in learn
+    return super().learn(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\stable_baselines3\common\on_policy_algorithm.py", line 323, in learn
+    continue_training = self.collect_rollouts(self.env, callback, self.rollout_buffer, n_rollout_steps=self.n_steps)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\stable_baselines3\common\on_policy_algorithm.py", line 218, in collect_rollouts
+    new_obs, rewards, dones, infos = env.step(clipped_actions)
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\stable_baselines3\common\vec_env\base_vec_env.py", line 207, in step
+    return self.step_wait()
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\stable_baselines3\common\vec_env\dummy_vec_env.py", line 59, in step_wait
+    obs, self.buf_rews[env_idx], terminated, truncated, self.buf_infos[env_idx] = self.envs[env_idx].step(  # type: ignore[assignment]
+                                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\stable_baselines3\common\monitor.py", line 94, in step
+    observation, reward, terminated, truncated, info = self.env.step(action)
+                                                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\gymnasium\wrappers\common.py", line 125, in step
+    observation, reward, terminated, truncated, info = self.env.step(action)
+                                                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\gymnasium\wrappers\common.py", line 393, in step
+    return super().step(action)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\gymnasium\core.py", line 322, in step
+    return self.env.step(action)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\gymnasium\wrappers\common.py", line 285, in step
+    return self.env.step(action)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\gymnasium\envs\mujoco\ant_v4.py", line 161, in step
+    self.render()
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\gymnasium\envs\mujoco\mujoco_env.py", line 164, in render
+    return self.mujoco_renderer.render(self.render_mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\gymnasium\envs\mujoco\mujoco_rendering.py", line 711, in render
+    return viewer.render()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\gymnasium\envs\mujoco\mujoco_rendering.py", line 437, in render
+    update()
+  File "C:\Users\shine\anaconda3\envs\gymenv\Lib\site-packages\gymnasium\envs\mujoco\mujoco_rendering.py", line 404, in update
+    mujoco.mjr_render(self.viewport, self.scn, self.con)
+KeyboardInterrupt

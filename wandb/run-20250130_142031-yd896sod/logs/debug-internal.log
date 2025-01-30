@@ -1,0 +1,15 @@
+{"time":"2025-01-30T14:20:31.3403243-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"C:\\Users\\shine\\Desktop\\AiLearning\\wandb\\run-20250130_142031-yd896sod\\logs\\debug-core.log"}
+{"time":"2025-01-30T14:20:31.4521851-05:00","level":"INFO","msg":"created new stream","id":"yd896sod"}
+{"time":"2025-01-30T14:20:31.4521851-05:00","level":"INFO","msg":"stream: started","id":"yd896sod"}
+{"time":"2025-01-30T14:20:31.4521851-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"yd896sod"}
+{"time":"2025-01-30T14:20:31.4521851-05:00","level":"INFO","msg":"sender: started","stream_id":"yd896sod"}
+{"time":"2025-01-30T14:20:31.4521851-05:00","level":"INFO","msg":"handler: started","stream_id":"yd896sod"}
+{"time":"2025-01-30T14:20:31.6998322-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-30T14:23:49.2157587-05:00","level":"INFO","msg":"stream: closing","id":"yd896sod"}
+{"time":"2025-01-30T14:23:49.2157587-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-30T14:23:49.2162697-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-30T14:23:49.5620184-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-30T14:23:49.7109529-05:00","level":"INFO","msg":"handler: closed","stream_id":"yd896sod"}
+{"time":"2025-01-30T14:23:49.7109529-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"yd896sod"}
+{"time":"2025-01-30T14:23:49.7109529-05:00","level":"INFO","msg":"sender: closed","stream_id":"yd896sod"}
+{"time":"2025-01-30T14:23:49.7109529-05:00","level":"INFO","msg":"stream: closed","id":"yd896sod"}
