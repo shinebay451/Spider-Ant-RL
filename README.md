@@ -12,7 +12,7 @@ WANDB Link: https://wandb.ai/shinebay55-ohio-university/Ant%20learning?nw=nwuser
 Goal is to correctly Coordinate on 4 legs.
 ![Image](https://github.com/user-attachments/assets/83cb9bd6-e9ac-4c57-9760-7fbf5e72ff7d)
 
-# Guide !!!!
+# Quick Guide !!!!
 1. Download Conda https://anaconda.org/anaconda/conda  .
 2. "conda create -n gymenv" this creates you an enviroment and make sure to activate it.
 3. Download Python and make sure to set the python interpret as your new Enviroment. (In Visual Studio Code) 
