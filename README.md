@@ -1,7 +1,7 @@
 # Spider-Ant-RL
 Original Link: [OpenAI Gym](https://github.com/openai/gym.git)
 
-WANDB Link: [Ant-training](https://wandb.ai/shinebay55-ohio-university/Ant%20learning?nw=nwusershinebay55)
+WandB Link: [Ant-training](https://wandb.ai/shinebay55-ohio-university/Ant%20learning?nw=nwusershinebay55)
 
 
 
