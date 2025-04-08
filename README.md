@@ -1,4 +1,4 @@
-# Spider-Ant-RL
+# Spider-Ant-RL Zoo
 Original Link: [OpenAI Gym](https://github.com/openai/gym.git)
 
 WandB Link: [Ant-training](https://wandb.ai/shinebay55-ohio-university/Ant%20learning?nw=nwusershinebay55)
